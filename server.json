@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2023-06-06T16:45:42.684Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2023-06-06T16:48:00.236Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel de apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2023-06-06T18:48:53.306Z"
+    },
+    {
+      "id": 4,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 3800,
+      "createdAt": "2023-06-06T16:45:42.684Z"
+    },
+    {
+      "description": "teclado mecânico",
+      "price": 89,
+      "category": "Itens",
+      "type": "outcome",
+      "createdAt": "2023-06-07T01:55:33.852Z",
+      "id": 5
+    },
+    {
+      "description": "Anivesário de criança",
+      "price": 3678,
+      "category": "Festa",
+      "type": "outcome",
+      "createdAt": "2023-06-07T17:49:09.756Z",
+      "id": 6
+    }
+  ]
+}
